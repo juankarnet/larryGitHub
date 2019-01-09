@@ -1,8 +1,8 @@
-#Índice
+#indice
 
 * Larry Plotter y el bucle
 * el siguiente
-* otro más
+* otro mas
 * cuarto libre
 * quinto 
 * otro cambio mas
